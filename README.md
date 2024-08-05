@@ -1,0 +1,3 @@
+.passo {
+             display: none;
+}
